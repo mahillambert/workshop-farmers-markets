@@ -1,0 +1,674 @@
+{
+  "source": "City of Chicago, Department of Cultural Affairs and Special Events: Chicago Farmers Markets 2026 Schedule",
+  "source_url": "https://www.chicago.gov/city/en/depts/dca/supp_info/farmers_market_schedule.html",
+  "retrieved": "2026-09-15",
+  "season": 2026,
+  "notes": "One record per market-day. A market that runs on two different days of the week has two records. 'accepts_link' reflects the (L) Link/SNAP marker on the source page; 'community_partner' reflects the * marker for independently run community partner markets.",
+  "markets": [
+    {
+      "id": 1,
+      "name": "Edgewater Monday Market",
+      "address": "5917 N. Broadway",
+      "day": "Monday",
+      "hours": "3-7 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-06-01",
+        "end": "2026-09-28"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jarvis Square Twilight Market",
+      "address": "1500 W. Jarvis",
+      "day": "Monday",
+      "hours": "4-8 p.m.",
+      "accepts_link": false,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-06-01",
+        "end": "2026-10-26"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Lincoln Square Farmers Market",
+      "address": "2301 W. Leland Ave.",
+      "day": "Tuesday",
+      "hours": "7 a.m. - Noon",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-05-05",
+        "end": "2026-11-17"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Low-Line Market",
+      "address": "3400 N. Southport Ave.",
+      "day": "Tuesday",
+      "hours": "3-7 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-06-02",
+        "end": "2026-09-29"
+      }
+    },
+    {
+      "id": 5,
+      "name": "The Farmer at the Green",
+      "address": "320 S. Canal",
+      "day": "Tuesday",
+      "hours": "11 a.m. - 3 p.m.",
+      "accepts_link": false,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-06-02",
+        "end": "2026-09-29"
+      }
+    },
+    {
+      "id": 6,
+      "name": "SOAR Farmers Market",
+      "address": "220 E. Chicago Ave.",
+      "day": "Tuesday",
+      "hours": "7 a.m. - 2 p.m.",
+      "accepts_link": false,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-06-02",
+        "end": "2026-10-27"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Andersonville Farmers Market",
+      "address": "1500 W. Winona Ave.",
+      "day": "Wednesday",
+      "hours": "3-7 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-05-13",
+        "end": "2026-10-21"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Green City Market - Lincoln Park",
+      "address": "1817 N. Clark St.",
+      "day": "Wednesday",
+      "hours": "7 a.m. - 1 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-05-06",
+        "end": "2026-10-28"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Pioneer Court Market Days",
+      "address": "401 N. Michigan Ave.",
+      "day": "Wednesday",
+      "hours": "9 a.m. - 2 p.m.",
+      "accepts_link": false,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-06-03",
+        "end": "2026-10-28"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Pullman Farmers Market",
+      "address": "11100 S. Cottage Grove Ave.",
+      "day": "Wednesday",
+      "hours": "7 a.m. - Noon",
+      "accepts_link": true,
+      "community_partner": true,
+      "schedule": {
+        "type": "range",
+        "start": "2026-07-08",
+        "end": "2026-10-28"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Ravenswood Community Farmers Market",
+      "address": "4900 N. Damen Ave.",
+      "day": "Wednesday",
+      "hours": "4-8 p.m.",
+      "accepts_link": false,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-05-14",
+        "end": "2026-10-14"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Uptown Farmers Market",
+      "address": "Sunnyside Mall, 1257-1320 W. Sunnyside Ave.",
+      "day": "Wednesday",
+      "hours": "2:30-7 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-05-06",
+        "end": "2026-11-04"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Austin Town Hall Farmers Market",
+      "address": "5610 W. Lake St.",
+      "day": "Thursday",
+      "hours": "1-6 p.m.",
+      "accepts_link": true,
+      "community_partner": true,
+      "schedule": {
+        "type": "range",
+        "start": "2026-06-11",
+        "end": "2026-10-29"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Daley Plaza Farmers Market",
+      "address": "50 W. Washington St.",
+      "day": "Thursday",
+      "hours": "7 a.m. - 2 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-05-21",
+        "end": "2026-10-22"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Farm on Ogden's Summer Market",
+      "address": "",
+      "day": "Thursday",
+      "hours": "Noon - 4 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "dates",
+        "dates": [
+          "2026-06-11",
+          "2026-06-25",
+          "2026-07-09",
+          "2026-07-23",
+          "2026-08-13",
+          "2026-08-27"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "name": "Lincoln Square Farmers Market",
+      "address": "2301 W. Leland Ave.",
+      "day": "Thursday",
+      "hours": "3-7 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-05-07",
+        "end": "2026-10-29"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Walsh Park Farmers Market",
+      "address": "1722 N. Ashland Ave.",
+      "day": "Thursday",
+      "hours": "4-8 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-06-04",
+        "end": "2026-10-15"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Chicago Vegan Farmers Market",
+      "address": "1335 W. Adams St.",
+      "day": "Friday",
+      "hours": "4-8 p.m.",
+      "accepts_link": false,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-07-10",
+        "end": "2026-09-25"
+      }
+    },
+    {
+      "id": 19,
+      "name": "61st St. Farmers Market",
+      "address": "1400 E. 61st St.",
+      "day": "Saturday",
+      "hours": "9 a.m. - 2 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-05-16",
+        "end": "2026-10-31"
+      }
+    },
+    {
+      "id": 20,
+      "name": "CYDI Farmers Market",
+      "address": "7655 S. Halsted St.",
+      "day": "Saturday",
+      "hours": "9 a.m. - 2 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-05-09",
+        "end": "2026-10-31"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Division Street Farmers Market",
+      "address": "100 W. Division St.",
+      "day": "Saturday",
+      "hours": "7 a.m. - noon",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-05-16",
+        "end": "2026-10-24",
+        "exceptions": [
+          "2026-07-04"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "name": "Eckhart Park Farmers Market",
+      "address": "1330 W. Chicago Ave.",
+      "day": "Saturday",
+      "hours": "10 a.m. - 1 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-05-16",
+        "end": "2026-09-19"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Green City Market - Lincoln Park",
+      "address": "1817 N. Clark St.",
+      "day": "Saturday",
+      "hours": "8 a.m. - 1 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-04-04",
+        "end": "2026-11-21"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Green City Market - West Loop",
+      "address": "900 W. Monroe St.",
+      "day": "Saturday",
+      "hours": "8 a.m. - 1 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-05-02",
+        "end": "2026-11-21"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Hamptons Farmers Market",
+      "address": "5555 W. North Ave.",
+      "day": "Saturday",
+      "hours": "Noon - 5 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-05-30",
+        "end": "2026-10-31"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Hegewisch Farmers Market",
+      "address": "13323 S. Green Bay Ave.",
+      "day": "Saturday",
+      "hours": "9 a.m. - 1 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-06-13",
+        "end": "2026-10-17",
+        "exceptions": [
+          "2026-08-01"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "name": "Horner Park Farmers Market",
+      "address": "2741 W. Montrose Ave.",
+      "day": "Saturday",
+      "hours": "9 a.m. - 1 p.m.",
+      "accepts_link": false,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-06-06",
+        "end": "2026-10-10"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Mercado de Colores",
+      "address": "2759 S. Harding Ave.",
+      "day": "Saturday",
+      "hours": "10 a.m. - 2 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "dates",
+        "dates": [
+          "2026-06-13",
+          "2026-06-27",
+          "2026-07-11",
+          "2026-07-25",
+          "2026-08-08",
+          "2026-08-22",
+          "2026-09-12",
+          "2026-09-26",
+          "2026-10-10",
+          "2026-10-24",
+          "2026-11-12",
+          "2026-11-28",
+          "2026-12-05"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "name": "North Branch Farmers Market",
+      "address": "6525 N. Hiawatha Ave.",
+      "day": "Saturday",
+      "hours": "9 a.m. - 1 p.m.",
+      "accepts_link": false,
+      "community_partner": false,
+      "schedule": {
+        "type": "dates",
+        "dates": [
+          "2026-06-27",
+          "2026-07-11",
+          "2026-07-25",
+          "2026-08-08",
+          "2026-08-22",
+          "2026-09-05",
+          "2026-09-19"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "name": "Northcenter Farmers Market",
+      "address": "4100 N. Damen Ave.",
+      "day": "Saturday",
+      "hours": "8 a.m. - 1 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-06-13",
+        "end": "2026-10-31",
+        "exceptions": [
+          "2026-08-02"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "name": "Plant Chicago Farmers Market",
+      "address": "4444 S. Marshfield Ave.",
+      "day": "Saturday",
+      "hours": "11 a.m. - 3 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "dates",
+        "dates": [
+          "2026-06-13",
+          "2026-07-11",
+          "2026-08-08",
+          "2026-08-12",
+          "2026-09-12",
+          "2026-10-10",
+          "2026-11-07"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "name": "South Loop Farmers Market: Printers Row",
+      "address": "632 S. Dearborn St.",
+      "day": "Saturday",
+      "hours": "9 a.m. - 1 p.m.",
+      "accepts_link": false,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-05-16",
+        "end": "2026-10-31",
+        "exceptions": [
+          "2026-07-04",
+          "2026-09-12"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "name": "The Lincoln Park Farmers Market",
+      "address": "724 W. Armitage Ave.",
+      "day": "Saturday",
+      "hours": "7 a.m. - 1 p.m.",
+      "accepts_link": false,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-04-25",
+        "end": "2026-11-21"
+      }
+    },
+    {
+      "id": 34,
+      "name": "95th Street Farmers Market",
+      "address": "1835 W. 95th St.",
+      "day": "Sunday",
+      "hours": "8 a.m. - 1 p.m.",
+      "accepts_link": false,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-05-03",
+        "end": "2026-10-25"
+      }
+    },
+    {
+      "id": 35,
+      "name": "Bronzeville Farmers Market",
+      "address": "4700 S. King Dr.",
+      "day": "Sunday",
+      "hours": "10 a.m. - 2 p.m.",
+      "accepts_link": true,
+      "community_partner": true,
+      "schedule": {
+        "type": "range",
+        "start": "2026-06-07",
+        "end": "2026-09-27"
+      }
+    },
+    {
+      "id": 36,
+      "name": "Glenwood Sunday Market",
+      "address": "6960 N. Glenwood Ave.",
+      "day": "Sunday",
+      "hours": "9 a.m. - 2 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-06-07",
+        "end": "2026-10-25",
+        "exceptions": [
+          "2026-06-28",
+          "2026-08-16"
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "name": "Jefferson Park Sunday Market",
+      "address": "4822 N. Long Ave.",
+      "day": "Sunday",
+      "hours": "10 a.m. - 2 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "dates",
+        "dates": [
+          "2026-06-14",
+          "2026-06-28",
+          "2026-07-12",
+          "2026-07-26",
+          "2026-08-09",
+          "2026-08-23",
+          "2026-09-13",
+          "2026-09-27",
+          "2026-10-11",
+          "2026-10-25"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "name": "Logan Square Farmers Market",
+      "address": "2400 N. Kedzie Blvd.",
+      "day": "Sunday",
+      "hours": "9 a.m. - 3 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-05-10",
+        "end": "2026-10-25"
+      }
+    },
+    {
+      "id": 39,
+      "name": "North Park Community Market",
+      "address": "5555 N. Kimball Ave.",
+      "day": "Sunday",
+      "hours": "10 a.m. - 2 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "dates",
+        "dates": [
+          "2026-05-17",
+          "2026-06-21",
+          "2026-07-19",
+          "2026-08-16",
+          "2026-09-20",
+          "2026-10-18"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "name": "Portage Park Farmers Market",
+      "address": "4100 N. Long Ave.",
+      "day": "Sunday",
+      "hours": "9:30 a.m. - 1:30 p.m.",
+      "accepts_link": false,
+      "community_partner": false,
+      "schedule": {
+        "type": "dates",
+        "dates": [
+          "2026-06-07",
+          "2026-06-21",
+          "2026-07-19",
+          "2026-08-02",
+          "2026-08-16",
+          "2026-08-30",
+          "2026-09-06",
+          "2026-09-20",
+          "2026-10-04",
+          "2026-10-18"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "name": "UChicago Farmers Market",
+      "address": "5828 S. University Ave.",
+      "day": "Sunday",
+      "hours": "10 a.m. - 2 p.m.",
+      "accepts_link": false,
+      "community_partner": false,
+      "schedule": {
+        "type": "dates",
+        "dates": [
+          "2026-05-10"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "name": "Wicker Park Farmers Market",
+      "address": "1425 N. Damen Ave.",
+      "day": "Sunday",
+      "hours": "8 a.m. - 2 p.m.",
+      "accepts_link": true,
+      "community_partner": false,
+      "schedule": {
+        "type": "range",
+        "start": "2026-05-03",
+        "end": "2026-10-25"
+      }
+    }
+  ]
+}

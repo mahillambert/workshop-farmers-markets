@@ -1,0 +1,19 @@
+# Facilitator-only material — not for participants
+FACILITATOR_NOTES.md
+
+# Generated output: rebuild with `python3 build_report.py`
+report.html
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Editors and OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
