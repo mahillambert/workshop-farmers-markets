@@ -46,3 +46,9 @@ the chart and the listing.
 ## What's open this week
 Not started. It is listed as a "must have" in SPEC.md, but no logic or markup
 for it exists yet.
+
+## Commit the generated report
+`report.html` is committed alongside its generator so it is immediately
+available from the GitHub repository. It remains generated output: updates must
+be made in `build_report.py` or the data, then regenerated with
+`python3 build_report.py`; it must not be edited by hand.

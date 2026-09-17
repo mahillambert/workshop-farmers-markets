@@ -2,7 +2,7 @@
 FACILITATOR_NOTES.md
 
 # Generated output: rebuild with `python3 build_report.py`
-report.html
+# Committed so the report is directly available from the repository.
 
 # Python
 __pycache__/
